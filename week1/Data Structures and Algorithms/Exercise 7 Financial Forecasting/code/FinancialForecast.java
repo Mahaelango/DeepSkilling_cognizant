@@ -13,7 +13,7 @@ public class FinancialForecast {
     public static void main(String[] args) {
         double presentValue = 10000.0; // ₹10,000
         double rate = 0.08; // 8% growth
-        int years = 5;
+        int years = 15;
 
         double result = futureValue(presentValue, rate, years);
         System.out.printf("Future Value after %d years: ₹%.2f\n", years, result);
