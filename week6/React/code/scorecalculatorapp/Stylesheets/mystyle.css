@@ -1,0 +1,19 @@
+.container {
+  border: 2px solid #4CAF50;
+  padding: 20px;
+  margin: 30px auto;
+  width: 60%;
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+h2 {
+  color: #2e8b57;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
